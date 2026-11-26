@@ -22,6 +22,8 @@ AI does much of the actual research, coding, proof development, and testing. I h
   [Paper](https://hexagonmath.org/2610.00457v1) · [Source](https://github.com/jjtripodo-lgtm/sparse-projective-plane-determinants)
 - **EPFL VOTER** — Circuit optimization with an equivalence proof.  
   [Circuit and proof](https://github.com/jjtripodo-lgtm/epfl-voter-980-proof)
+- **Yukon CircuitBreaker** — Submissions on lower bounds for Boolean circuit size.  
+  [Challenge and results](https://www.yukon.org/circuitbreaker)
 
 The repositories have more details on the results, verification, assumptions, and limitations. Much of the work hasn't been independently reviewed by human experts.
 

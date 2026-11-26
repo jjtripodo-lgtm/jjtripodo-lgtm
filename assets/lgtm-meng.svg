@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+<title id="title">LGTM, meng. Laboratories</title><desc id="desc">Independent Research and Other Endeavors. Aliquid, fortasse. Established MMXXVI.</desc>
+<rect width="800" height="800" rx="12" fill="#f7f4ed"/>
+<g fill="none" stroke="#202c22">
+<circle cx="400" cy="148" r="102" stroke-width="4"/>
+<circle cx="400" cy="148" r="90" stroke-width="2"/>
+<path d="M352 146 L385 179 L458 101" stroke-width="13" stroke-linecap="square" stroke-linejoin="miter"/>
+<path d="M377 210 L400 191 L423 210" stroke="#727b6d" stroke-width="3.6"/>
+</g>
+<g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" fill="#202c22">
+<text x="400" y="385" font-size="125" letter-spacing="18">LGTM<tspan letter-spacing="0" font-size="90">,</tspan></text>
+<text x="400" y="460" font-size="78" font-style="italic">meng.</text>
+<text x="400" y="524" font-size="34" letter-spacing="13">LABORATORIES</text>
+<text x="400" y="575" font-size="25" fill="#596455">Independent Research &amp; Other Endeavors</text>
+<path d="M133 617 H386 M414 617 H667" stroke="#727b6d" stroke-width="1.5"/>
+<path d="M400 609 L408 617 L400 625 L392 617Z" fill="#727b6d"/>
+<text x="400" y="692" font-size="53" font-style="italic">Aliquid, fortasse.</text>
+<text x="400" y="749" font-size="21" letter-spacing="5">ESTABLISHED MMXXVI</text>
+</g></svg>

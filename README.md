@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lgtm-meng.svg" width="460" alt="LGTM, meng. Laboratories — Independent Research &amp; Other Endeavors. Aliquid, fortasse. Established MMXXVI." />
+</p>
+
 # John Tripodo
 
 I work in tech and have been spending some of my free time using ChatGPT, Claude, and Codex to explore different research problems.

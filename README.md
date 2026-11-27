@@ -13,11 +13,11 @@ AI does much of the actual research, coding, proof development, and testing. I h
 ### Mathematics
 
 - **Erdős #670.** A Lean-verified counterexample to the fixed-dimensional separated-distance conjecture in dimension 29, with diameter below 0.998n² for arbitrarily large n.  
-  [Preprint](https://hexagonmath.org/2610.00254v2) · [Source](https://github.com/jjtripodo-lgtm/erdos-670-fixed-dimension) · [Lean proof](https://github.com/jjtripodo-lgtm/erdos-670-r29) · [Verification](https://github.com/jjtripodo-lgtm/erdos-670-verification) · [External proof port and check](https://github.com/GuillaumeBAUD-coder/open-math-agents/pull/3356)
+  [Preprint](https://hexagonmath.org/2610.00254v2) · [Source](https://github.com/jjtripodo-lgtm/erdos-670-fixed-dimension) · [Lean proof](https://github.com/jjtripodo-lgtm/erdos-670-r29) · [Verification](https://github.com/jjtripodo-lgtm/erdos-670-verification) · [Palomar (29D)](https://palomar-registry.org/entry?id=PALOMAR-2026-11-11-000002&version=1) · [Palomar (earlier construction)](https://palomar-registry.org/entry?id=PALOMAR-2026-10-14-000003&version=1) · [External proof port and check](https://github.com/GuillaumeBAUD-coder/open-math-agents/pull/3356)
 - **Erdős #708.** The Lean-verified exact values g(4) = 5 and g(5) = 6. The general bound remains open.  
-  [Preprint](https://hexagonmath.org/2611.00694v1) · [Lean proof](https://github.com/jjtripodo-lgtm/erdos-708-g4-g5) · [Downstream Lean development](https://github.com/Cameron-Lyons/formal-math-lab/tree/main/erdos-708-six)
+  [Preprint](https://hexagonmath.org/2611.00694v1) · [Lean proof](https://github.com/jjtripodo-lgtm/erdos-708-g4-g5) · [Palomar](https://palomar-registry.org/entry?id=PALOMAR-2026-11-19-000019&version=1) · [Downstream Lean development](https://github.com/Cameron-Lyons/formal-math-lab/tree/main/erdos-708-six)
 - **Symmetric configurations.** Lean-verified nonexistence results for 59₈ and 93₁₀, without additional structural assumptions.  
-  [59₈ preprint](https://hexagonmath.org/2611.00901v1) · [59₈ proof and checker](https://github.com/jjtripodo-lgtm/symconf59-checker) · [93₁₀ Lean proof](https://github.com/jjtripodo-lgtm/symconf93-lean)
+  [59₈ preprint](https://hexagonmath.org/2611.00901v1) · [59₈ proof and checker](https://github.com/jjtripodo-lgtm/symconf59-checker) · [59₈ Palomar](https://palomar-registry.org/entry?id=PALOMAR-2026-11-26-000051&version=1) · [93₁₀ Lean proof](https://github.com/jjtripodo-lgtm/symconf93-lean) · [93₁₀ Palomar](https://palomar-registry.org/entry?id=PALOMAR-2026-11-27-000036&version=1)
 - **Double Hall graphs.** Constructions with asymptotically optimal maximum degree. The partial Lean formalization takes the prime-interval bound as a hypothesis.  
   [Preprint](https://hexagonmath.org/2610.00462v1) · [Source](https://github.com/jjtripodo-lgtm/double-hall-optimal-degree)
 - **Sparse binary matrices.** Projective-plane determinant bounds for integer densities 3–14, with a Lean companion.  
@@ -28,7 +28,7 @@ AI does much of the actual research, coding, proof development, and testing. I h
 ### Proof complexity
 
 - **Pigeonhole principle.** A coefficient-mass dichotomy for real Nullstellensatz proofs, including an exponential separation between plain and functional systems. The principal results are formalized in Lean.  
-  [Proof companion](https://github.com/jjtripodo-lgtm/proof-complexity-companions/tree/main/pigeonhole-coefficient-mass) · [Lean proofs](https://github.com/jjtripodo-lgtm/proof-complexity-companions/tree/main/pigeonhole-coefficient-mass/lean)
+  [Proof companion](https://github.com/jjtripodo-lgtm/proof-complexity-companions/tree/main/pigeonhole-coefficient-mass) · [Lean proofs](https://github.com/jjtripodo-lgtm/proof-complexity-companions/tree/main/pigeonhole-coefficient-mass/lean) · [Palomar](https://palomar-registry.org/entry?id=PALOMAR-2026-11-27-000037&version=1)
 
 ### Circuit optimization and lower bounds
 
